@@ -1,6 +1,6 @@
-# Analytics-Exploratory-Data-Analysis-Data-Visualization-Analyzing-Data-with-Microsoft-Power-BI
+## Data Analytics Power BI Learnings
 
-## Analyzing Data with Microsoft Power BI
+## Analyzing Data with Power BI
 
 In this section you will learn how to gather, prepare, clean, transform, and load your data. Then you will design you first model in Power BI.
 
